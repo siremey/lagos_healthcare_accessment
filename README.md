@@ -1,7 +1,7 @@
 # lagos_healthcare_accessment
 Assessment of the Distribution and Accessibility of Lagos Healthcare Facilities
 
-<bold>Abstract</bold>
+**Abstract**
 
 Universal Health Coverage (UHC) is a paramount goal for many nations, including Nigeria, aiming to ensure all citizens have access to high-quality healthcare services. However, the road to achieving UHC, particularly in geographically diverse regions with rapidly growing populations, is fraught with significant challenges. The most pressing of these challenges is ensuring equitable distribution and accessibility of health facilities, a complex issue that demands immediate attention.<br>
 This study provides a comprehensive overview of the distribution of healthcare centers and accessibility in Lagos. It's a crucial step towards addressing the issue of healthcare facility availability, ensuring that no area is left underserved. This, in turn, will significantly contribute to the realization of Universal Health Coverage (UHC) in the city.<br>
